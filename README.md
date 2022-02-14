@@ -1,3 +1,3 @@
 # projeto-site-meu-pet
  
-Project in html
+Project 100% in html
